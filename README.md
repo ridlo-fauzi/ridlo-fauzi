@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridlo Fauzi</h1>
 <h3 align="center">A undergraduate computer science of Duta Bangsa Surakarta Univesity</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridlo-fauzi" alt="ridlo-fauzi" /></a> </p>
-
 - 🔭 I’m currently working on [Web Profil SDN 1 Klewor](https://sdn-1-klewor.sch.id/)
 
 - 👯 I’m looking to collaborate on [Sistem Pengelolaan Pariwisata](https://github.com/ridlo-fauzi/pariwisata.git)
